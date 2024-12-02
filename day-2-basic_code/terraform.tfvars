@@ -1,0 +1,1 @@
+mybucket = "dev-test-naresh-devopsaws1036999"
